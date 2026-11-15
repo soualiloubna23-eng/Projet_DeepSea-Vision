@@ -1,0 +1,11 @@
+# donnees (trop lourdes)
+dataset/
+
+# fichiers temporaires Python et Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# modeles entraines (lourds)
+*.pt
+*.pth
