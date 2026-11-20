@@ -1,11 +1,13 @@
 # donnees (trop lourdes)
 dataset/
-
+data/
 # fichiers temporaires Python et Jupyter
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-
+*.zip
+*.png
+*.jpg
 # modeles entraines (lourds)
 *.pt
 *.pth
